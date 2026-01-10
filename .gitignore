@@ -1,3 +1,5 @@
 # Ignore datasets
 number-one/datasets/
 *.csv
+number-two/datasets/
+*.csv
