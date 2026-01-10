@@ -1,1 +1,3 @@
-number-one/datasets
+# Ignore datasets
+number-one/datasets/
+*.csv
