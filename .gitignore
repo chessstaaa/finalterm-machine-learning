@@ -3,3 +3,8 @@ number-one/datasets/
 *.csv
 number-two/datasets/
 *.csv
+number-three/datasets/
+*.csv
+
+# Ignore keras model files (too large for GitHub)
+*.keras
